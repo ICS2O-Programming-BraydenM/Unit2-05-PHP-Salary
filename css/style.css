@@ -1,0 +1,30 @@
+/* Created by: Brayden MacMillan
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-PHP-Salary
+*/
+
+body {
+	background-color: rgb(207, 7, 74);
+}
+
+h1 {
+	background-color: rgb(97, 149, 189);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #c6fbe0;
+}
+
+div {
+  font-weight: bold;
+  color: #ae1acb;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #eeecb4;
+}
